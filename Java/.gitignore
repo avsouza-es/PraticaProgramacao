@@ -1,7 +1,4 @@
-/AtividadeVinteADS.class
-/CobraEstacionamento.class
-/ConversorDadosPrimitivos.class
-/ExampleUsoFor.class
-/JavaBank.class
-/JavaBankVariables.class
-/AtividadeVinteDoisADS.class
+*.class
+.gitnigore
+.classpath
+.project
