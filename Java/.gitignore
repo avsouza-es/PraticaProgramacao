@@ -1,4 +1,36 @@
+# Arquivos compilados
 *.class
-.gitnigore
+*.jar
+*.war
+*.ear
+
+# Pastas de build
+target/
+build/
+bin/
+out/
+
+# Eclipse
 .classpath
 .project
+.settings/
+.metadata/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+logs/
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Ambiente/credenciais (NUNCA comitar!)
+.env
+*.key
+*.cert
+
+# Outros
+/nbproject/
+/private/
+/.idea/
