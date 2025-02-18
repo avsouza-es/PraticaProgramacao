@@ -121,4 +121,4 @@ Este repositório está licenciado sob a licença MIT. Consulte o arquivo [LICEN
 
 ---
 
-Feito com ❤️ por [Seu Nome]. Acompanhe meu progresso e aprenda Java comigo! 🚀
+Feito com ❤️ por Alexandre. Acompanhe meu progresso e aprenda Java comigo! 🚀
