@@ -117,12 +117,21 @@ O repositório está dividido em diretórios por tópicos, cada um contendo exem
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+```
 
-🤝 Contribuições
-Se você encontrar algum erro ou tiver sugestões de melhorias, fique à vontade para abrir uma issue ou enviar um pull request . Contribuições são sempre bem-vindas! ✨
+---
 
-📄 Licença
-Este repositório está licenciado sob a licença MIT . Consulte o arquivo LICENSE para mais detalhes.
+## 🙌 Contribuições 🤝
+
+Contribuições são bem-vindas! Se você tiver sugestões, correções ou novos exemplos para adicionar, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. ✨
+
+---
+
+## 📝 Licença
+
+Este repositório está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
 
 Feito por Alexandre . Acompanhe meu progresso e aprenda Java comigo! 🚀
 
