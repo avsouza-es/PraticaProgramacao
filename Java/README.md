@@ -129,7 +129,7 @@ Contribuições são bem-vindas! Se você tiver sugestões, correções ou novos
 
 ## 📝 Licença
 
-Este repositório está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE.txt) para mais detalhes.
 
 ---
 
