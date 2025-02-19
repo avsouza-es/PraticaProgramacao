@@ -116,7 +116,7 @@ O repositório está dividido em diretórios por tópicos, cada um contendo exem
 3. Sinta-se à vontade para **clonar o repositório** e experimentar os códigos localmente.
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/avsouza-es/PraticaProgramacao.git
 ```
 
 ---
@@ -135,6 +135,9 @@ Este repositório está licenciado sob a licença MIT. Consulte o arquivo [LICEN
 
 Feito por Alexandre . Acompanhe meu progresso e aprenda Java comigo! 🚀
 
-🔗 GitHub Profile
-📧 Contato: avsouza.es@gmail.com
+## 🔗 GitHub Profile
+[Visite meu perfil no GitHub](https://github.com/avsouza-es)
+
+## 📧 Contato
+**E-mail:** [avsouza.es@gmail.com](mailto:avsouza.es@gmail.com)
 
