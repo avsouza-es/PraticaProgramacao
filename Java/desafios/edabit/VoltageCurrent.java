@@ -12,11 +12,9 @@ power(480, 20) ➞ 9600
  * 
  */
 
-package desafios.edabit;
-
 public class VoltageCurrent {
     public static void main(String[] args) {
-        Circuit.power(220, 5);
+        System.out.println(Circuit.power(220, 5));    
     }
 }
 
