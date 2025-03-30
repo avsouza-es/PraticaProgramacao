@@ -34,3 +34,33 @@ Thumbs.db
 /nbproject/
 /private/
 /.idea/
+
+# Configurações do VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Arquivos temporários e de cache
+*.tmp
+*.swp
+*.swo
+.vscode/cache/
+
+# Dependências e build
+node_modules/
+dist/
+build/
+out/
+
+# Configurações de ambiente
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs e debug
+*.log
+logs/
+debug/
