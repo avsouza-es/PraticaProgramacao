@@ -1,3 +1,5 @@
+package desenvolvimento.agendapessoal;
+
 import java.util.Scanner;
 
 class Pessoa {
