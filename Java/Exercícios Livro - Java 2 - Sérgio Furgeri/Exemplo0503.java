@@ -1,5 +1,3 @@
-package livros;
-
 public class Exemplo0503 {
 	public static void main(String[] args) {
 		String frase1 = "Sou muito";

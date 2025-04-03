@@ -1,6 +1,6 @@
 class Exemplo0501 {
-	public static void main (string[] args) {
-		imprime()	// invocação do método
+	public static void main (String[] args) {
+		imprime();	// invocação do método
 	}
 
 	// declaração do metodo
