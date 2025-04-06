@@ -21,7 +21,11 @@ class MenuCalculadora
 
 			switch (escolha) {
 				case 1:
-					System.out.println("somar");
+					System.out.println("Digite o primeiro valor:");
+		//			int a = lerOpcao.nextInt();
+		//			System.out.println("digite o segundo valor: ");
+		//			int b = lerOpcao.nextInt();
+		//			somar(a, b);
 					break;
 				case 2:
 					System.out.println("Subtrair");
@@ -39,6 +43,11 @@ class MenuCalculadora
 					System.out.println("Opção não é valida. Digite uma opção válida");
 					break;		
 			}
-		}	
-	}
+		} 	
+	} // end exibirMenu
+
+	// methods
+	// public void somar(int a, int b) {
+	//	int soma = a+b;
+	// }  
 }
