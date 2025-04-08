@@ -1,0 +1,66 @@
+# Arquivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Pastas de build
+target/
+build/
+bin/
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+logs/
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Ambiente/credenciais (NUNCA comitar!)
+.env
+*.key
+*.cert
+
+# Outros
+/nbproject/
+/private/
+/.idea/
+
+# Configurações do VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Arquivos temporários e de cache
+*.tmp
+*.swp
+*.swo
+.vscode/cache/
+
+# Dependências e build
+node_modules/
+dist/
+build/
+out/
+
+# Configurações de ambiente
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs e debug
+*.log
+logs/
+debug/
